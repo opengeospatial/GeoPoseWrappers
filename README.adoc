@@ -1,0 +1,12 @@
+# GeoPoseWrappers
+
+In this repo, members of the OGC GeoPose SWG are developing Wrappers for GeoPose developers.
+
+_"A wrapper function is a subroutine in a software library or a computer program whose main purpose is to call a second subroutine or a system call with little or no additional computation. Wrapper functions are used to make writing computer programs easier by abstracting away the details of a subroutine's underlying implementation."_ link:https://en.wikipedia.org/wiki/Wrapper_function[source: Wikipedia]
+
+GeoPose Wrappers will provide rapid and reliable transformations for Web-based and native (mobile) OS runtime executables. Our targets include those who are using:
+
+- link:https://developers.google.com/ar/develop/geospatial[ARCore Geospatial API]
+- link:https://github.com/immersive-web/geo-alignment[WebXR Geo-alignment Feature]
+
+This repository serves as a companion to the OGC GeoPose Sandbox which is being developed in link:https://github.com/opengeospatial/GeoPoseSandbox[this repository].
